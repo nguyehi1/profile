@@ -1,0 +1,73 @@
+body {
+  background-color: #ededed;
+  font-family: 'Markazi Text', serif;
+  font-weight: 300px
+}
+
+h1, h2, h3 {
+  font-family: 'Markazi Text', serif;
+}
+
+h1 {
+  font-size: 40px;
+  color: rgba(255, 83, 13, 1.0);
+}
+
+h2 {
+  font-size: 23px;
+}
+
+h3 {
+  font-size: 20px;
+}
+
+p {
+  font-family: 'Kameron', serif;
+  font-size: 15px;
+}
+.container {
+  width: 600px;
+  margin: 0 auto;
+}
+.text-center {
+  text-align: center;
+}
+.card {
+  background: white;
+  margin: 15px auto;
+  padding: 20px;
+  border-radius: 4px;
+  text-decoration: none;
+}
+.list-inline {
+  display: inline-block;
+  margin-left: 10px;
+  margin-right: 10px;
+  list-style-type: none;
+}
+.list-inline a{
+  text-decoration: none;
+}
+
+.list-inline > li {
+  display: inline-block;
+  padding: 0px 20px;
+}
+
+.list-inline {
+  padding-left: 0px;
+}
+
+.btn {
+  background-color: #D9575B;
+  color: white;
+  border-radius: 3px;
+  text-decoration: none;
+  padding: 5px;
+}
+.btn:hover{
+  background-color: #E7403C;
+}
+
+.img-circle {
+  border-radius: 50%;
