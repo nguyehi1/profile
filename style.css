@@ -26,15 +26,15 @@ p {
   font-size: 15px;
 }
 .container {
-  width: 600px;
-  margin: 0 auto;
-  padding-left: 5px;
-  padding-right: 5px;
+  margin: 20px auto;
+  padding-left: 10px;
+  padding-right: 10px;
 }
 
 .text-center {
   text-align: center;
 }
+
 .card {
   background: white;
   margin: 15px auto;
@@ -42,12 +42,14 @@ p {
   border-radius: 4px;
   text-decoration: none;
 }
+
 .list-inline {
   display: inline-block;
   margin-left: 10px;
   margin-right: 10px;
   list-style-type: none;
 }
+
 .list-inline a{
   text-decoration: none;
 }
@@ -68,6 +70,7 @@ p {
   text-decoration: none;
   padding: 5px;
 }
+
 .btn:hover{
   background-color: #E7403C;
 }
